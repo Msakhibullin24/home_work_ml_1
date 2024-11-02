@@ -25,11 +25,11 @@ a = int(input("Введите первое число "))
 b = int(input("Введите второе число "))
 c = int(input("Введите третье число "))
 
-maximum = max(a, b, c)
-minimum = min(a, b, c)
-seredina = a + b + c - maximum - minimum
+maximalka = max(a, b, c)
+minimalka = min(a, b, c)
+seredina = a + b + c - maximalka - minimalka
 
 
-print(maximum)
-print(minimum)
+print(maximalka)
+print(minimalka)
 print(seredina)
