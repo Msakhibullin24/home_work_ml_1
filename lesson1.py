@@ -16,7 +16,7 @@
 #last.remove(min(last))
 
 #print(cat)
-#print(x, y, sep="\n")
+#print(x, y, sep="\n") так то по идеи не пригодилось
 
 #rint(last)
 
