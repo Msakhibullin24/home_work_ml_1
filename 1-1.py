@@ -23,3 +23,10 @@ print(srednia)
 
 
 
+
+biletik = list(input("Введите число: "))
+
+if int(biletik[0])+ int(biletik[1]) +int(biletik[2]) == int(biletik[3])+int(biletik[4])+int(biletik[5]):
+    print("Билет счастливый")
+else:
+     print("Билет не счастливый")
